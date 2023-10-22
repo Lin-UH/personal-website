@@ -7,7 +7,7 @@ plugins:
   - jemoji
 
 permalink: /:year/:month/:day/:title/
-
+repository: Lin-UH/personal-website/
 defaults:
   -
     scope:

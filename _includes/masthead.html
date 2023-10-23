@@ -47,8 +47,16 @@
         {% endfor %}
       </div>
     {% endif %}
-    {% if user.hireable %}
-      <span title="Hire me" class="d-inline-block f5 rounded-2 text-white bg-green py-1 px-2">Available for hire</span>
-    {% endif %}
+
+    <a href="resume" {% if site.style == 'dark' %}class="text-white"{% endif %}>
+          <span title="Hire me" class="d-inline-block f5 rounded-2 text-white bg-green py-1 px-2">Click for Resume</span>
+    </a>
+
+
+<!--       <div class="{{ metadata_styles }} {% if site.style == 'dark' %}text-white{% endif %}">-->
+<!--    {% if site.hireable %}-->
+<!--      <p><span title="Hire me" class="d-inline-block f5 rounded-2 text-white bg-green py-1 px-2">Available for hire</span> </p>-->
+<!--    {% endif %}-->
+<!--      </div>-->
   </div>
 {% endif %}

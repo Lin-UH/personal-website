@@ -1,0 +1,49 @@
+# Jobs
+# VP of Global Communications
+- company: Predict COVID-19 Case Numbers in the Houston Area
+  position: VP of Global Communications
+  duration: Oct, 2013 &mdash; Present
+  summary: <ul class="resume-item-list"><li>Analyzed and processed real-world data, and combined LSTM and SVR on extracted features to predict future trends.</li> <li>Won <b>first place</b> in Datathon Kaggle Competition.</li> <li><a href="https://sbmi.uth.edu/datathon/past-events/aug20.htm" style="color:green;font-weight:bold">https://sbmi.uth.edu/datathon/past-events/aug20.htm.</a></li></ul>
+
+# Director of Digital Stratgy
+- company: Annotation-Free Nuclei Segmentation in Large-Scale Multiplex Brain Image
+  position: Director of Digital Strategy
+  duration:  Jun, 2010 &mdash; Sept, 2013
+  summary: <ul class="resume-item-list"><li>Developed annotation and visualization GUI using Tkinter and Flask, Napari. </li> <li>Achieved a SAM-based method benefiting annotation acquisition accurately and automatically.</li> <li>Generated a synthetic dataset overcoming the insufficient existence of annotations.</li><li>Proposed a Mask-RCNN-based model, which is able to segment the whole nuclei body from dense areas.</li></ul>
+
+
+
+# Communications Coordinator
+- company: Cross-Domain Sentiment Classification on Amazon Reviews
+  position: Communications Coordinator
+  duration:   Jun, 2008  &mdash; May, 2010
+  summary: <ul class="resume-item-list"><li>Converted sentences into combinations of words via Dependency Syntactic Parsing.</li> <li>Constructed a graph by using combinations and sentences as nodes. Edges were created to connect nodes and build bridges between different domains. Trained a semi-supervised Graph Convolutional Network to classify nodes.</li> <li>Learned nodes’ knowledge was saved to help the next task under the Lifelong learning framework. </li></ul>
+
+# Communications Coordinator
+- company: Multi Objects Tracking and Segmentation
+  position: Communications Coordinator
+  duration:   Jun, 2008  &mdash; May, 2010
+  summary: <ul class="resume-item-list"><li>With the public Multi-Objects Tracking dataset, used pre-trained segmentation models to generate and merge instance masks, and trained an appearance encoder to generate features. Performed data association between frames to generate tracklets.</li> <li>With the public Multi-Objects Tracking dataset, used pre-trained segmentation models to generate and merge instance masks, and trained an appearance encoder to generate features. Performed data association between frames to generate tracklets.</li></ul>
+
+# Communications Coordinator
+- company: Identify COVID-19 Lung Diseases
+  position: Communications Coordinator
+  duration:   Jun, 2008  &mdash; May, 2010
+  summary: <ul class="resume-item-list"><li>With 2D X-ray dataset, used pre-traisned U-net to segment lung images. Multiple Deep-learning classification models (VGG16, ResNet50, MobileNet, InceptionV3, AG-CNN) were used to classify lung images.</li> <li>Compared all models' performance. Grad-Cam was used to visualize the models by generating an activation map.</li></ul>
+
+# Communications Coordinator
+- company: Social Network Comments Sentiment Classification
+  position: Communications Coordinator
+  duration:   Jun, 2008  &mdash; May, 2010
+  summary: <ul class="resume-item-list"><li>Labeled Sina Microblog data (five classes), and did text preprocessing. Converted word to vector via Word2Vec and built a classification model via SVM.</li></ul>
+
+# Communications Coordinator
+- company: Online Shopping Website
+  position: Communications Coordinator
+  duration:   Jun, 2008  &mdash; May, 2010
+  summary: <ul class="resume-item-list"><li>Implemented a shopping website application using SSH with MVC pattern in Java, using MySQL as database, and Tomcat as web server.</li></ul>
+# Communications Coordinator
+- company: Library Management System
+  position: Communications Coordinator
+  duration:   Jun, 2008  &mdash; May, 2010
+  summary: <ul class="resume-item-list"><li>Implemented adding, deleting, updating, and searching book and user information functions in C Language.</li></ul>
